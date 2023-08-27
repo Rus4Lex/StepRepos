@@ -1,7 +1,4 @@
-
-
-rex = 0x277
-
+rex = 0x312
 def main():
     print(hex(id(rex)))
 
